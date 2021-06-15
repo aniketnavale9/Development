@@ -1,0 +1,9 @@
+{
+	"name": "SelfLearningAzureADF2021",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "119822eb-1cb2-4abe-98dd-c1b8247d1fb0",
+		"tenantId": "fd41ee0d-0d97-4102-9a50-c7c3c5470454"
+	}
+}
