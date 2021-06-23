@@ -2,7 +2,7 @@
 	"name": "DSSSRS",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "SqlServer200",
+			"referenceName": "SqlServeraxis",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
